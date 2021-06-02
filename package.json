@@ -1,0 +1,25 @@
+{
+  "name": "web-ui",
+  "version": "1.0.0",
+  "description": "Basic UI for making a basic HTTP request to a enpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeg1307/web-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeg1307/web-ui/issues"
+  },
+  "homepage": "https://github.com/joeg1307/web-ui#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "carbon-components": "^10.36.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
